@@ -15,7 +15,7 @@ A sample illustration of [Github](https://github.com/) code repo integration wit
 - Create a Github  repo (it can be public or private)  - https://docs.github.com/en/get-started/quickstart/create-a-repo
 
 
-![](images/github-repo.png)
+![](images/github-create-new-repo.png)
 
 - Click on the Gitlab profile icon  and select `Settings` option.
 
